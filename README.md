@@ -1,0 +1,79 @@
+# Philomathia
+
+## Contexte du projet
+
+## Fill and Run
+
+## Veille
+
+### Un vecteur
+
+- Un vecteur est un segment de droite orienté, formant une flèche.
+
+- Un vecteur est défini par sa direction, son sens et sa norme.
+
+### Une matrice
+
+- Une matrice est un tableau d'éléments.
+
+### Une probabilité
+
+- Une probabilité est une mesure de la chance qu'un événement se produise, elle est comprise entre 0 et 1.
+
+- La probabilité d'un événement est égale au pourcentage de chances qu'il se produise.
+
+#### exemple
+
+- Dans un paquet de carte classique de 54 cartes, il y a 4 as. La probabilité de tirer un as est donc de 4/54.
+
+### Une espérance, une variance et un écart-type
+
+- L'espérance est la moyenne des valeurs d'une variable aléatoire.
+
+- La variance est l'écart carré moyen entre chaque donnée et le centre de la distribution représentée par la moyenne.
+
+- L'écart-type est la mesure de la dispersion des valeurs d'un échantillon statistique ou d'une distribution de probabilité.
+
+### Une corrélation linéaire
+
+- La corrélation entre plusieurs variables aléatoires est une notion de liaison qui contredit leur indépendance. Cette corrélation est très souvent réduite à la corrélation linéaire, c'est-à-dire l'ajustement d'une variable par rapport à l'autre par relation affine obtenue par régression linéaire.
+
+### Une moyenne, une médiane, un maximum et un minimum
+
+- La moyenne est la somme des valeurs d'un échantillon statistique divisée par le nombre d'observations.
+
+- La médiane est la valeur qui partage un ensemble de données en deux parties égales.
+
+- Le maximum est la plus grande valeur d'un ensemble de données.
+
+- Le minimum est la plus petite valeur d'un ensemble de données.
+
+### Les quartiles en statistiques
+
+- Les quartiles sont les trois valeurs qui divisent un ensemble de données en quatre parties égales.
+
+- Le premier quartile est la valeur qui sépare les 25% des valeurs les plus faibles des 75% des valeurs les plus élevées.
+
+- Le deuxième quartile est la valeur qui sépare les 50% des valeurs les plus faibles des 50% des valeurs les plus élevées.
+
+- Le troisième quartile est la valeur qui sépare les 75% des valeurs les plus faibles des 25% des valeurs les plus élevées.
+
+### Boxplot en statistiques
+
+- La boxplot ou boîte à moustache est un graphique qui représente les quartiles d'un ensemble de données.
+
+### Histogramme en statistiques
+
+- Un histogramme sépare les valeurs possibles des données en classes ou groupes. Pour chaque groupe, on construit un rectangle dont la base correspond aux valeurs de ce groupe et la hauteur correspond au nombre d'observations de ce groupe.
+
+### Le théorème Central Limite
+
+- Le théorème central limite établit la convergence en loi de la somme d'une suite de variable aléatoires vers la loi normale.
+
+### Une dérivée
+
+- En mathématiques, la dérivée d'une fonction d'une variable réelle mesure l'ampleur du changement de la valeur de sortie par rapport à un petit changement de sa valeur d'entrée
+
+## Application
+
+## Conclusion
