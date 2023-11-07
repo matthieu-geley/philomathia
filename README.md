@@ -16,17 +16,25 @@ Le projet à pour but de nous apprendre des concepts mathématiques, géométriq
 
 ### Une matrice
 
-- Une matrice est un tableau d'éléments.
+- Une matrice est un tableau d'éléments à deux dimension (x et y).
 
 ### Une probabilité
 
-- Une probabilité est une mesure de la chance qu'un événement se produise, elle est comprise entre 0 et 1.
+- Une probabilité est une mesure de la chance qu'un événement se produise, elle est comprise entre 0 et 1, O indiquant une impossibilité et 1 une certitude.
 
-- La probabilité d'un événement est égale au pourcentage de chances qu'il se produise.
+### Les lois de probabilité
+
+- Une loi de probabilité décrit le comportement aléatoire d'un phénomène dépendant du hasard.
+
+- Une loi de probabilité discrète est une loi de probabilité pour laquelle l'ensemble des valeurs possibles est finis ou infini dénombrable.
 
 #### exemple
 
-- Dans un paquet de carte classique de 54 cartes, il y a 4 as. La probabilité de tirer un as est donc de 4/54.
+- La loi de Bernoulli est une loi de probabilité discrète qui ne peut prendre que deux valeurs, 0 ou 1.
+
+- La loi binomiale est une loi de probabilité discrète qui décrit le nombre de succès dans une séquence de n épreuves de Bernoulli identiques et indépendantes.
+
+- La loi de Poisson est une loi de probabilité discrète qui décrit le nombre d'événements se produisant dans un intervalle de temps donné, si ces événements se produisent avec une fréquence moyenne connue et indépendamment du temps écoulé depuis l'événement précédent.
 
 ### Une espérance, une variance et un écart-type
 
@@ -77,5 +85,7 @@ Le projet à pour but de nous apprendre des concepts mathématiques, géométriq
 - En mathématiques, la dérivée d'une fonction d'une variable réelle mesure l'ampleur du changement de la valeur de sortie par rapport à un petit changement de sa valeur d'entrée
 
 ## Application
+
+- Voir le fichier 'philomathia.ipynb'.
 
 ## Conclusion
