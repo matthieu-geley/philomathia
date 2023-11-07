@@ -2,7 +2,9 @@
 
 ## Contexte du projet
 
-## Fill and Run
+Les mathématiques sont une langue universelle, elles sont utilisées dans tous les domaines scientifiques. Elles permettent de modéliser des phénomènes, de les comprendre et de les prédire. Elles sont donc indispensables pour comprendre le monde qui nous entoure.
+
+Le projet à pour but de nous apprendre des concepts mathématiques, géométriques et statitisques, de nous faire comprendre leur utilité et nous apprendre à les utiliser dans le domaine de l'intelligence artificielle.
 
 ## Veille
 
