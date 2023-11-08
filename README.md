@@ -16,7 +16,7 @@ Le projet à pour but de nous apprendre des concepts mathématiques, géométriq
 
 ### Une matrice
 
-- Une matrice est un tableau d'éléments à deux dimension (x et y).
+- Une matrice est un tableau d'éléments composé de lignes et de colonnes.
 
 ### Une probabilité
 
