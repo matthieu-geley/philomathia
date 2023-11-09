@@ -89,3 +89,5 @@ Le projet à pour but de nous apprendre des concepts mathématiques, géométriq
 - Voir le fichier 'philomathia.ipynb'.
 
 ## Conclusion
+
+- Ce projet m'a permis de revoir des notions mathématiques que j'avais déjà vu en cours et d'en apprendre de nouvelles. J'ai pu voir l'utilité de ces notions dans le domaine de l'intelligence artificielle et de la programmation en général.
